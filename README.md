@@ -4,7 +4,7 @@ AI-powered people analytics for modern teams — a full-stack-feeling dashboard 
 
 Built on the public **[HRDataset_v14](https://rpubs.com/rhuebner/hrd_cb_v14)** dataset (311 employee records, 2006–2018), created by Dr. Carla Patalano and Dr. Rich Huebner for HR analytics education. No real employee data is used.
 
-**[Live demo →](https://anlatted.github.io/peoplepulse-ai/)** *(add your GitHub Pages link here once deployed)*
+**[Live demo →](https://anlatted.github.io/peoplepulse-ai/)** 
 
 ![Overview screenshot](docs/screenshot-overview.png)
 
